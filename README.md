@@ -1,5 +1,7 @@
 ## Hi there👋, I'm Archi Kakadiya!
 
+### I'm currently pursuing Computer Programming and Analysis in Seneca College.
+
 <!--
 **akakadiya1/akakadiya1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
