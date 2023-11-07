@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 👩‍💻 I'm a Computer Programming and Analysis Student.
+- 👩‍💻 I'm a Computer Programming and Analysis [Advance Diploma] Student.
 - 🌍 I love to explore new technologies and develop various kind of projects.
 - 📚 I'm constantly learning and improving my skills.
 
