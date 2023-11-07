@@ -1,6 +1,6 @@
 ## Hi there👋, I'm Archi Kakadiya!
 
-- Welcome to my GitHub profile!
+- Welcome to My GitHub Profile!
 
 ## About Me
 
