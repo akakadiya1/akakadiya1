@@ -8,6 +8,14 @@
 - 🌍 I love to explore new technologies and develop various kind of projects.
 - 📚 I'm constantly learning and improving my skills.
 
+## GitHub Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akakadiya1&show_icons=true&locale=en&layout=compact" alt="akakadiya1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akakadiya1&show_icons=true&locale=en" alt="akakadiya1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akakadiya1&" alt="akakadiya1" /></p>
+
 <!--
 **akakadiya1/akakadiya1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
