@@ -1,7 +1,6 @@
 ## Hi there👋, I'm Archi Kakadiya!
 
 - Welcome to My GitHub Profile!
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=akakadiya1&label=Profile%20views&color=0e75b6&style=flat" alt="akakadiya1" /> </p>
 
 ## About Me
 
@@ -10,6 +9,8 @@
 - 📚 I'm constantly learning and improving my skills.
 
 ## GitHub Stats
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akakadiya1&label=Profile%20views&color=0e75b6&style=flat" alt="akakadiya1" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akakadiya1&show_icons=true&locale=en&layout=compact" alt="akakadiya1" /></p>
 
