@@ -13,7 +13,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akakadiya1&label=Profile%20views&color=0e75b6&style=flat" alt="akakadiya1" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akakadiya1&show_icons=true&locale=en&layout=compact" alt="akakadiya1" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akakadiya1&" alt="akakadiya1" /></p>
 
 <!--
 **akakadiya1/akakadiya1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
