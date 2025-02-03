@@ -14,7 +14,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akakadiya1&show_icons=true&locale=en&layout=compact" alt="akakadiya1" /></p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashvichauhan&" alt="GitHub Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akakadiya1&" alt="GitHub Streak Stats" />
 
 <!--
 **akakadiya1/akakadiya1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
